@@ -1,16 +1,16 @@
-# MyAI
+# My AI
 
-My AI
+<!-- My AI -->
 
-- [My AI skills](#my-ai-skills)
-- [My AI projects](#my-ai-projects)
+- [My AI Skills](#my-ai-skills)
+- [My AI Projects](#my-ai-projects)
   - [Project 3](#project-3)
   - [Project 2](#project-2)
   - [Project 1](#project-1)
 - [My AI Platforms](#my-ai-platforms)
-- [My AI project that needs sponsors - Predicting and Addressing Criminal Activities](#my-ai-project-that-needs-sponsors---predicting-and-addressing-criminal-activities)
+- [My AI WIP Project - Predicting and Addressing Criminal Activities](#my-ai-wip-project---predicting-and-addressing-criminal-activities)
 
-## My AI skills
+## My AI Skills
 
 1. **Machine Learning Algorithms**: linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes, gradient boosting, and neural networks (including deep learning architectures such as CNNs, RNNs, and LSTMs).
 
@@ -32,7 +32,7 @@ My AI
 
 10. **Reinforcement Learning**: Q-learning, deep Q-networks (DQN), and policy gradients.
 
-## My AI projects
+## My AI Projects
 
 Machine learning, Data Science etc.
 
@@ -153,7 +153,9 @@ IBM Watson:
 9. **Watson Knowledge Catalog**: A service for managing and curating data assets, including datasets, models, and notebooks, to facilitate collaboration and reuse.
 10. **Watson OpenScale**: A service for monitoring and managing AI models in production, including bias detection, model fairness, and performance monitoring.
 
-## My AI project that needs sponsors - Predicting and Addressing Criminal Activities
+## My AI WIP Project - Predicting and Addressing Criminal Activities
+
+I need some sponsors!
 
 Here is my WIP project:
 
