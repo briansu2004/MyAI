@@ -157,13 +157,13 @@ IBM Watson:
 
 Here is my WIP project:
 
-- gather the data from the history for all criminal events in my city
-- also take the live feed from different resources (e.g. police reports, call centers, governments, witnesses etc.)
-- do some data cleansing and remove outliners
-- split the data set for training and test data
-- choose the best ML algorithm and use it to analyze the data
-- predict the highest freqenent days/hours for all particular zones
-- notify the police stations and recommend them to prepare more on the crime peek days/hours
+- Gather the data from the history for all criminal events in my city
+- Take the live feed from different resources (e.g. police reports, call centers, governments, witnesses etc.)
+- Do the data cleansing and remove outliners
+- Split the data set for training and test data
+- Choose the best ML algorithm and use it to analyze the data
+- Predict the highest freqenent days/hours for all particular zones
+- Notify the police stations and recommend them to prepare more on the crime peek days/hours
 
 Here's a high-level overview of how I will proceed:
 
