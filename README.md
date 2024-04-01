@@ -8,7 +8,7 @@ My AI
   - [Project 2](#project-2)
   - [Project 1](#project-1)
 - [My AI Platforms](#my-ai-platforms)
-- [My AI project that needs sponsors](#my-ai-project-that-needs-sponsors)
+- [My AI project that needs sponsors - Predicting and Addressing Criminal Activities](#my-ai-project-that-needs-sponsors---predicting-and-addressing-criminal-activities)
 
 ## My AI skills
 
@@ -153,7 +153,7 @@ IBM Watson:
 9. **Watson Knowledge Catalog**: A service for managing and curating data assets, including datasets, models, and notebooks, to facilitate collaboration and reuse.
 10. **Watson OpenScale**: A service for monitoring and managing AI models in production, including bias detection, model fairness, and performance monitoring.
 
-## My AI project that needs sponsors
+## My AI project that needs sponsors - Predicting and Addressing Criminal Activities
 
 Here is my WIP project:
 
@@ -167,24 +167,24 @@ Here is my WIP project:
 
 Here's a high-level overview of how I will proceed:
 
-1. **Data Gathering**: Collect historical data on criminal events in your city from relevant sources such as police records, crime databases, news reports, and government statistics. Additionally, set up mechanisms to gather live data from sources like police reports, emergency call centers, government agencies, and eyewitness accounts.
+1. **Data Gathering**: Collect historical data on criminal events in our city from relevant sources such as police records, crime databases, news reports, and government statistics. Additionally, set up mechanisms to gather live data from sources like police reports, emergency call centers, government agencies, and eyewitness accounts.
 
 2. **Data Cleansing and Preprocessing**: Cleanse the collected data to remove inconsistencies, errors, and outliers. This may involve tasks such as handling missing values, standardizing data formats, and identifying and removing erroneous entries.
 
-3. **Data Splitting**: Split the cleaned dataset into training and testing subsets. The training dataset will be used to train your machine learning model, while the testing dataset will be used to evaluate its performance.
+3. **Data Splitting**: Split the cleaned dataset into training and testing subsets. The training dataset will be used to train our machine learning model, while the testing dataset will be used to evaluate its performance.
 
-4. **Model Selection and Training**: Choose the most appropriate machine learning algorithm for your problem. This could involve experimenting with different algorithms such as decision trees, random forests, support vector machines, or neural networks. Train the selected model using the training dataset.
+4. **Model Selection and Training**: Choose the most appropriate machine learning algorithm for our problem. This could involve experimenting with different algorithms such as decision trees, random forests, support vector machines, or neural networks. Train the selected model using the training dataset.
 
-5. **Model Evaluation**: Evaluate the performance of your trained model using the testing dataset. Common evaluation metrics for classification tasks include accuracy, precision, recall, and F1 score. Choose the evaluation metrics that are most relevant to your project's objectives.
+5. **Model Evaluation**: Evaluate the performance of our trained model using the testing dataset. Common evaluation metrics for classification tasks include accuracy, precision, recall, and F1 score. Choose the evaluation metrics that are most relevant to our project's objectives.
 
-6. **Prediction**: Once your model is trained and evaluated, use it to make predictions on new data. In this case, use the trained model to predict the highest frequency days and hours for criminal events in particular zones of your city.
+6. **Prediction**: Once our model is trained and evaluated, use it to make predictions on new data. In this case, use the trained model to predict the highest frequency days and hours for criminal events in particular zones of our city.
 
 7. **Notification and Recommendation**: Develop a mechanism to notify relevant authorities, such as police stations, about the predicted high-frequency days and hours for criminal activity in specific zones. Additionally, provide recommendations on how they can prepare and allocate resources accordingly.
 
-8. **Deployment and Monitoring**: Deploy your model and notification system in a production environment. Continuously monitor the system's performance and update the model as needed with new data and insights.
+8. **Deployment and Monitoring**: Deploy our model and notification system in a production environment. Continuously monitor the system's performance and update the model as needed with new data and insights.
 
-9. **Feedback Loop**: Establish a feedback loop to collect data on the effectiveness of your predictions and recommendations. Use this feedback to refine and improve your model over time.
+9. **Feedback Loop**: Establish a feedback loop to collect data on the effectiveness of our predictions and recommendations. Use this feedback to refine and improve our model over time.
 
-10. **Documentation and Maintenance**: Document the entire project, including data sources, preprocessing steps, model selection, training, and deployment processes. Regularly maintain and update your system to ensure its effectiveness and relevance over time.
+10. **Documentation and Maintenance**: Document the entire project, including data sources, preprocessing steps, model selection, training, and deployment processes. Regularly maintain and update our system to ensure its effectiveness and relevance over time.
 
-By following these steps, you can successfully complete and implement your AI ML DevOps project for predicting and addressing criminal activity in your city.
+<!-- By following these steps, I can successfully complete and implement our AI ML DevOps project for predicting and addressing criminal activity in our city. -->
