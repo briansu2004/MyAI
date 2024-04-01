@@ -127,8 +127,6 @@ Google Cloud Platform (GCP):
 9. **Google Cloud Speech Command Recognition**: A service for recognizing speech commands in audio data using machine learning models, designed for IoT and other edge device applications.
 10. **Google Cloud AI Hub**: A hosted repository and collaboration platform for discovering, sharing, and deploying machine learning models and datasets.
 
-Certainly! Here are some computing platforms including AI from Azure (Microsoft Azure) and IBM Watson:
-
 Microsoft Azure:
 
 1. **Azure Machine Learning**: A cloud-based service for building, training, and deploying machine learning models at scale, with support for various programming languages and frameworks.
