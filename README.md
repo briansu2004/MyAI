@@ -2,6 +2,7 @@
 
 <!-- My AI -->
 
+- [My AI keywords](#my-ai-keywords)
 - [My AI Skills](#my-ai-skills)
 - [My AI Projects](#my-ai-projects)
   - [Project 3](#project-3)
@@ -9,6 +10,10 @@
   - [Project 1](#project-1)
 - [My AI Platforms](#my-ai-platforms)
 - [My AI WIP Project - Predicting and Addressing Criminal Activities](#my-ai-wip-project---predicting-and-addressing-criminal-activities)
+
+## My AI keywords
+
+AI: Machine Learning Algorithms, linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes; Data Preprocessing, Model Evaluation and Validation, Feature Selection and Engineering, , Model Deployment, TensorFlow; Data Science, Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), R, Jupyter Notebooks; Data visualization libraries, Matplotlib, Seaborn, and Plotly; NLP; Computer Vision, PyTorch; IBM Watson, Azure AI platform, AWS AI platform, GCP AI platform
 
 ## My AI Skills
 
