@@ -1,7 +1,5 @@
 # My AI
 
-<!-- My AI -->
-
 - [My AI keywords](#my-ai-keywords)
 - [My AI Skills](#my-ai-skills)
 - [My AI Projects](#my-ai-projects)
@@ -9,11 +7,17 @@
   - [Project 2](#project-2)
   - [Project 1](#project-1)
 - [My AI Platforms](#my-ai-platforms)
-- [My AI WIP Project - Predicting and Addressing Criminal Activities](#my-ai-wip-project---predicting-and-addressing-criminal-activities)
+  - [Amazon Web Services (AWS)](#amazon-web-services-aws)
+  - [Google Cloud Platform (GCP)](#google-cloud-platform-gcp)
+  - [Microsoft Azure](#microsoft-azure)
+  - [IBM Watson](#ibm-watson)
+- [Sponsor Me - My AI WIP Project - Predicting and Addressing Criminal Activities](#sponsor-me---my-ai-wip-project---predicting-and-addressing-criminal-activities)
 
 ## My AI keywords
 
+```text
 AI: Machine Learning Algorithms, linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes; Data Preprocessing, Model Evaluation and Validation, Feature Selection and Engineering, , Model Deployment, TensorFlow; Data Science, Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), R, Jupyter Notebooks; Data visualization libraries, Matplotlib, Seaborn, and Plotly; NLP; Computer Vision, PyTorch; IBM Watson, Azure AI platform, AWS AI platform, GCP AI platform
+```
 
 ## My AI Skills
 
@@ -107,7 +111,7 @@ Developed a Python data science proof of concept (POC) tailored for a prominent 
 
 Microsoft Azure: Azure is a cloud computing platform by Microsoft that offers a diverse set of AI services and tools. Azure AI provides services such as Azure Machine Learning, Azure Cognitive Services, and Azure Bot Service, allowing developers to build intelligent applications with capabilities like speech recognition, language understanding, image recognition, and predictive analytics. Azure also offers GPU-accelerated computing instances for high-performance AI workloads. -->
 
-Amazon Web Services (AWS):
+### Amazon Web Services (AWS)
 
 1. **Amazon SageMaker**: A fully managed machine learning service that enables developers to build, train, and deploy machine learning models at scale.
 2. **Amazon Lex**: A service for building conversational interfaces into any application using voice and text.
@@ -119,7 +123,7 @@ Amazon Web Services (AWS):
 8. **AWS DeepRacer**: A fully autonomous 1/18th scale race car driven by reinforcement learning models, designed to help developers learn about reinforcement learning and machine learning in a fun way.
 9. **AWS Deep Learning AMIs**: Preconfigured Amazon Machine Images (AMIs) that come with popular deep learning frameworks and libraries installed, allowing developers to quickly set up deep learning environments on EC2 instances.
 
-Google Cloud Platform (GCP):
+### Google Cloud Platform (GCP)
 
 1. **Google Cloud AI Platform**: A suite of machine learning services that enables developers to build, train, and deploy machine learning models at scale.
 2. **Google Cloud AutoML**: A suite of machine learning products that enables developers with limited machine learning expertise to train high-quality custom models for specific use cases, such as image recognition and natural language processing.
@@ -132,7 +136,7 @@ Google Cloud Platform (GCP):
 9. **Google Cloud Speech Command Recognition**: A service for recognizing speech commands in audio data using machine learning models, designed for IoT and other edge device applications.
 10. **Google Cloud AI Hub**: A hosted repository and collaboration platform for discovering, sharing, and deploying machine learning models and datasets.
 
-Microsoft Azure:
+### Microsoft Azure
 
 1. **Azure Machine Learning**: A cloud-based service for building, training, and deploying machine learning models at scale, with support for various programming languages and frameworks.
 2. **Azure Cognitive Services**: A collection of AI-powered APIs and pre-built models for vision, speech, language, and decision-making, enabling developers to add intelligent features to their applications.
@@ -145,7 +149,7 @@ Microsoft Azure:
 9. **Azure Video Analyzer**: A service for analyzing and extracting insights from videos, including object tracking, motion detection, and scene understanding.
 10. **Azure IoT Edge**: A service for deploying AI models and analytics to edge devices, enabling real-time processing and decision-making at the edge of the network.
 
-IBM Watson:
+### IBM Watson
 
 1. **Watson Assistant**: A conversational AI platform that enables developers to build and deploy chatbots and virtual assistants across multiple channels.
 2. **Watson Discovery**: A service for analyzing unstructured data and extracting insights using natural language processing (NLP) and machine learning.
@@ -158,7 +162,7 @@ IBM Watson:
 9. **Watson Knowledge Catalog**: A service for managing and curating data assets, including datasets, models, and notebooks, to facilitate collaboration and reuse.
 10. **Watson OpenScale**: A service for monitoring and managing AI models in production, including bias detection, model fairness, and performance monitoring.
 
-## My AI WIP Project - Predicting and Addressing Criminal Activities
+## Sponsor Me - My AI WIP Project - Predicting and Addressing Criminal Activities
 
 I need some sponsors!
 
