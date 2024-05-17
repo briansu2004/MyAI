@@ -1,6 +1,5 @@
 # My AI
 
-- [My AI keywords](#my-ai-keywords)
 - [My AI Skills](#my-ai-skills)
 - [My AI Projects](#my-ai-projects)
   - [Project 3](#project-3)
@@ -13,13 +12,9 @@
   - [IBM Watson](#ibm-watson)
 - [Sponsor Me - My AI WIP Project - Predicting and Addressing Criminal Activities](#sponsor-me---my-ai-wip-project---predicting-and-addressing-criminal-activities)
 
-## My AI keywords
-
-```text
-AI: Machine Learning Algorithms, linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes; Data Preprocessing, Model Evaluation and Validation, Feature Selection and Engineering, , Model Deployment, TensorFlow; Data Science, Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), R, Jupyter Notebooks; Data visualization libraries, Matplotlib, Seaborn, and Plotly; NLP; Computer Vision, PyTorch; IBM Watson, Azure AI platform, AWS AI platform, GCP AI platform
-```
-
 ## My AI Skills
+
+AI: Machine Learning Algorithms, linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes; Data Preprocessing, Model Evaluation and Validation, Feature Selection and Engineering, , Model Deployment, TensorFlow; Data Science, Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), R, Jupyter Notebooks; Data visualization libraries, Matplotlib, Seaborn, and Plotly; NLP; Computer Vision, PyTorch; IBM Watson, Azure AI platform, AWS AI platform, GCP AI platform
 
 1. **Machine Learning Algorithms**: linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes, gradient boosting, and neural networks (including deep learning architectures such as CNNs, RNNs, and LSTMs).
 
@@ -43,7 +38,7 @@ AI: Machine Learning Algorithms, linear regression, logistic regression, decisio
 
 ## My AI Projects
 
-Machine learning, Data Science etc.
+Machine Learning, Data Science etc.
 
 ### Project 3
 
@@ -53,7 +48,8 @@ Machine learning, Data Science etc.
 - Used Python NLP libraries and Azure Cognitive Services APIs to analyse data, extracted entities, key phrases, and categories, then do sentiment analysis with data science algorithms in Jupyter Notebook.
 - Visualized the ontology knowledge graphs with Neo4j Bloom and search phrases. -->
 
-<!-- A confidential federal client:  -->
+<!-- A confidential federal client -->
+
 Developed a sophisticated knowledge-based ontology graph database application tailored for a federal client's needs.
 
 - Seamlessly transitioned from a traditional relational data model to a dynamic Graph data model, leveraging the robust capabilities of Neo4j for enhanced data representation and querying efficiency.
@@ -63,6 +59,8 @@ Developed a sophisticated knowledge-based ontology graph database application ta
 - Expanded the scope of data acquisition by integrating additional feeds from diverse social media platforms. Leveraged the updated data to re-run the NLP pipeline, ensuring that insights remained current and reflective of evolving trends and sentiments across various digital channels.
 
 ### Project 2
+
+<!-- A confidential government client -->
 
 <!-- Built a Python AI POC for a government client to predict how much percent the issued parking tickets can be paid
 
@@ -81,6 +79,8 @@ Developed a Python-based AI proof of concept (POC) for a government client aimed
 - Selected the best-performing model based on AUC-ROC scores, ensuring optimal predictive accuracy and reliability for informing decision-making processes within the government agency.
 
 ### Project 1
+
+<!-- A large supermarket chain client -->
 
 <!-- Created a Python data science POC for a large supermarket chain client
 
