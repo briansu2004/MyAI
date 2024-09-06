@@ -14,7 +14,7 @@
 
 ## My AI Skills
 
-AI: Machine Learning Algorithms, linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes; Data Preprocessing, Model Evaluation and Validation, Feature Selection and Engineering, , Model Deployment, TensorFlow; Data Science, Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), R, Jupyter Notebooks; Data visualization libraries, Matplotlib, Seaborn, and Plotly; NLP; Computer Vision, PyTorch; IBM Watson, Azure AI platform, AWS AI platform, GCP AI platform
+AI: Machine Learning Algorithms, linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes; Data Preprocessing, Model Evaluation and Validation, Feature Selection and Engineering, Model Deployment, TensorFlow; Data Science, Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), R, Jupyter Notebooks; Data visualization libraries, Matplotlib, Seaborn, and Plotly; NLP; Computer Vision, PyTorch; IBM Watson, Azure AI platform, AWS AI platform, GCP AI platform
 
 1. **Machine Learning Algorithms**: linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes, gradient boosting, and neural networks (including deep learning architectures such as CNNs, RNNs, and LSTMs).
 
