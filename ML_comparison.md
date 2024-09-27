@@ -6,6 +6,7 @@
 - [Strengths and Limitations of Logistic Regression](#strengths-and-limitations-of-logistic-regression)
   - [Strengths of Logistic Regression](#strengths-of-logistic-regression)
   - [Limitations of Logistic Regression](#limitations-of-logistic-regression)
+- [Strengths and Limitations of Decision Trees](#strengths-and-limitations-of-decision-trees)
 
 ## Strengths and Limitations of Linear Regression
 
@@ -42,3 +43,21 @@ Like Linear Regression, Logistic Regression also has its own set of strengths an
 - Unsuitable for continuous outcomes: Due to its probabilistic approach, it does not provide continuous outputs.
 
 With the Iris dataset, Logistic Regression works well for predicting the species of a flower based on its features, as it's a classification task. However, its assumptions about data structures and limitations in handling complex relationships might hinder its performance.
+
+## Strengths and Limitations of Decision Trees
+
+Decision Tree models also have unique abilities and setbacks.
+
+Strengths of Decision Trees:
+
+- Transparent: They are easy to understand and interpret.
+- Handles categorical and numerical data: They can conveniently work with a mix of categorical and numerical features.
+- Can capture complex patterns: They are capable of fitting highly complex datasets.
+
+Limitations of Decision Trees:
+
+- Prone to overfitting: They might create an overly complex model that does not generalize well.
+- Sensitivity to data tweaks: Small changes in data could lead to different trees.
+- Biased for the dominating class: If one class outnumbers other classes, the decision tree might create a biased tree.
+
+In the context of the Iris dataset, Decision Trees could show excellent performance as they handle the variation of features well and interpret the relationships between different species and features. However, because of their tendency to overfit and sensitivity to minute changes, one must exercise caution while working with them.
