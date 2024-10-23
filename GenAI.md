@@ -1,5 +1,7 @@
 # Gen AI
 
+- [How to be a good Gen AI test lead](#how-to-be-a-good-gen-ai-test-lead)
+
 "Gen AI" can refer to a few different concepts, but typically it relates to the next generation of artificial intelligence systems. These systems often aim to be more versatile, adaptable, and capable of understanding and responding to human needs and behaviors more effectively. They might incorporate advancements in machine learning, natural language processing, computer vision, and other AI techniques to achieve these goals. Some envision "Gen AI" as a step towards creating AI systems that can truly understand and interact with humans in more natural and nuanced ways.
 
 ## How to be a good Gen AI test lead

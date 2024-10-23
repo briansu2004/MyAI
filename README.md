@@ -10,11 +10,13 @@
   - [Google Cloud Platform (GCP)](#google-cloud-platform-gcp)
   - [Microsoft Azure](#microsoft-azure)
   - [IBM Watson](#ibm-watson)
-- [Sponsor Me - My AI WIP Project - Predicting and Addressing Criminal Activities](#sponsor-me---my-ai-wip-project---predicting-and-addressing-criminal-activities)
+- [Sponsor My AI Project - Predicting and Addressing Criminal Activities](#sponsor-my-ai-project---predicting-and-addressing-criminal-activities)
 
 ## My AI Skills
 
-AI: Machine Learning Algorithms, linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes; Data Preprocessing, Model Evaluation and Validation, Feature Selection and Engineering, Model Deployment, TensorFlow; Data Science, Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), R, Jupyter Notebooks; Data visualization libraries, Matplotlib, Seaborn, and Plotly; NLP; Computer Vision, PyTorch; IBM Watson, Azure AI platform, AWS AI platform, GCP AI platform
+LLM, Prompting, Markdown Prompts Framework; Machine Learning Algorithms, linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes; Data Preprocessing, Model Evaluation and Validation, Feature Selection and Engineering, Model Deployment, TensorFlow; Data Science, Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), R, Jupyter Notebooks; Data visualization libraries, Matplotlib, Seaborn, and Plotly; NLP; Computer Vision, PyTorch; IBM Watson, Azure AI platform, AWS AI platform, GCP AI platform; LangChain
+
+<!-- Machine Learning Algorithms, linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes; Data Preprocessing, Model Evaluation and Validation, Feature Selection and Engineering, Model Deployment, TensorFlow; Data Science, Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), R, Jupyter Notebooks; Data visualization libraries, Matplotlib, Seaborn, and Plotly; NLP; Computer Vision, PyTorch; IBM Watson, Azure AI platform, AWS AI platform, GCP AI platform -->
 
 1. **Machine Learning Algorithms**: linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes, gradient boosting, and neural networks (including deep learning architectures such as CNNs, RNNs, and LSTMs).
 
@@ -38,7 +40,7 @@ AI: Machine Learning Algorithms, linear regression, logistic regression, decisio
 
 ## My AI Projects
 
-Machine Learning, Data Science etc.
+<!-- Machine Learning, Data Science etc. -->
 
 ### Project 3
 
@@ -69,7 +71,7 @@ Developed a sophisticated knowledge-based ontology graph database application ta
 - Split for training and testing
 - Used a few algorithms and chose the best model which has the best Area Under the ROC Curve. -->
 
-Developed a Python-based AI proof of concept (POC) for a government client aimed at predicting the likelihood of payment for issued parking tickets.
+Developed a Python-based AI project for a government client aimed at predicting the likelihood of payment for issued parking tickets.
 
 - Gathered diverse datasets from multiple sources to ensure comprehensive coverage and accuracy in training the predictive model.
 - Employed robust data preprocessing techniques to filter out outliers and ensure the integrity of the dataset, enhancing the reliability of subsequent analyses.
@@ -87,7 +89,7 @@ Developed a Python-based AI proof of concept (POC) for a government client aimed
 - Scraped neighborhood data from Wiki, acquired latitudes and longitudes data from the Geocoder, and retrieved location & venues data with Foursquare Places API.
 - Used k-means clustering to categorize and provided the recommendations. -->
 
-Developed a Python data science proof of concept (POC) tailored for a prominent supermarket chain client to optimize their store location strategy and enhance customer experience.
+Developed a Python data science project tailored for a prominent supermarket chain client to optimize their store location strategy and enhance customer experience.
 
 - Initiated the project by gathering comprehensive neighborhood data from Wikipedia, leveraging web scraping techniques to extract relevant information such as demographics, population density, and socioeconomic indicators.
 
@@ -162,7 +164,7 @@ Microsoft Azure: Azure is a cloud computing platform by Microsoft that offers a 
 9. **Watson Knowledge Catalog**: A service for managing and curating data assets, including datasets, models, and notebooks, to facilitate collaboration and reuse.
 10. **Watson OpenScale**: A service for monitoring and managing AI models in production, including bias detection, model fairness, and performance monitoring.
 
-## Sponsor Me - My AI WIP Project - Predicting and Addressing Criminal Activities
+## Sponsor My AI Project - Predicting and Addressing Criminal Activities
 
 I need some sponsors!
 
