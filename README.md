@@ -9,6 +9,8 @@
   - [Predicting and Addressing Criminal Activities](#predicting-and-addressing-criminal-activities)
 - [My AI Skills](#my-ai-skills)
 - [My AI Work Projects](#my-ai-work-projects)
+  - [Project 5](#project-5)
+  - [Project 4](#project-4)
   - [Project 3](#project-3)
   - [Project 2](#project-2)
   - [Project 1](#project-1)
@@ -140,6 +142,38 @@ LLM, Prompting, Markdown Prompts Framework; Machine Learning Algorithms, linear 
 10. **Reinforcement Learning**: Q-learning, deep Q-networks (DQN), and policy gradients.
 
 ## My AI Work Projects
+
+### Project 5
+
+<!-- Hebei Lizhong Group 立中集团 -->
+
+Developed and optimized a multimodal AI solution based on the latest MiniCPM-V series models for a client-facing proof of concept.
+
+- The project focused on MiniCPM-Llama3-V 2.5 and MiniCPM-V 2.0, implementing real-world applications in OCR and multilingual dialogue systems using advanced MLLMs (Multimodal Large Language Models).
+- Built interactive web-based QA systems using Gradio and Streamlit, enhancing user experience through responsive interfaces and real-time inference integration.
+- Applied quantization techniques (8-bit and 4-bit) using the llama.cpp framework to optimize model performance under resource constraints.
+- Explored vLLM-based inference, including source code analysis to understand internal model execution and streamline deployment.
+- Implemented both full-parameter fine-tuning and LoRA-based fine-tuning using Hugging Face Transformers with DeepSpeed, enabling scalable model customization on proprietary datasets.
+- Configured advanced training pipelines with customized datasets to address client-specific tasks, improving adaptability and task accuracy.
+- Performed model performance evaluation and optimization, including experiment tracking, output quality assessment, and latency reduction.
+- Researched and integrated the latest techniques in multimodal learning, aligning the solution with current industry trends and research directions.
+- Delivered a fully functional prototype with detailed technical documentation and deployment instructions for client adoption and future scalability.
+
+### Project 4
+
+<!-- Hebei Lizhong Group 立中集团 -->
+
+Designed and implemented a localized, privacy-focused AI solution as a proof of concept for a client.
+
+- The POC involved deploying and managing large language models (LLMs) such as Gemma and Ollama on the client’s Windows and Mac environments using Docker.
+- Focused on data privacy and on-premise control, the solution included full environment setup and container orchestration.
+- Integrated advanced AI tools like openWebUI and anythingLLM to develop a customized AI assistant and secure knowledge base.
+- Configured environment variables, managed local model files, and optimized inference performance with precise control over system resources.
+- Built an interactive user interface with openWebUI to enhance usability and AI interaction.
+- Constructed a local knowledge repository using anythingLLM for intelligent document management and semantic retrieval.
+- Bridged the gap between cutting-edge AI capabilities and real-world deployment through a hands-on, secure architecture.
+- Provided detailed guidance to the client for operating, maintaining, and expanding the AI system autonomously.
+- Empowered the client to adopt AI innovations internally while maintaining full ownership of their data and infrastructure.
 
 <!-- Machine Learning, Data Science etc. -->
 
