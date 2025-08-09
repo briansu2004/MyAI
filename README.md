@@ -9,6 +9,7 @@
   - [Predicting and Addressing Criminal Activities](#predicting-and-addressing-criminal-activities)
 - [My AI Skills](#my-ai-skills)
 - [My AI Work Projects](#my-ai-work-projects)
+  - [Project 6](#project-6)
   - [Project 5](#project-5)
   - [Project 4](#project-4)
   - [Project 3](#project-3)
@@ -143,6 +144,21 @@ LLM, Prompting, Markdown Prompts Framework; Machine Learning Algorithms, linear 
 
 ## My AI Work Projects
 
+### Project 6
+
+<!-- Hebei Lizhong Group 立中集团 -->
+
+Designed and delivered a privacy-preserving, AI-powered chatbot solution as a proof of concept (POC) for a client in a private industry domain.
+
+- The POC aimed to develop a business-facing chatbot capable of acting as a virtual sales or customer representative by integrating private client data with LLM capabilities.
+- Deployed Ollama in the client's local environment and evaluated multiple LLMs, selecting Gemma for its performance and compatibility for the demo.
+- Compared and benchmarked several vector database solutions - FAISS, Pinecone, Qdrant, and Weaviate - ultimately choosing Qdrant for its balance of flexibility, performance, and ease of deployment.
+- Built a RAG (Retrieval-Augmented Generation) pipeline using Python to handle embedding, indexing, document retrieval, and response generation.
+- Integrated Model Context Protocol (MCP) to modularize and manage business-specific context for LLM prompts, enabling traceable, reusable, and versioned knowledge injection.
+- Developed backend APIs using FastAPI, enabling seamless communication between the LLM, vector DB, and frontend.
+- Designed and implemented user interfaces using React and Vue, enhancing user interaction and delivering a modern conversational experience.
+- The chatbot successfully blended proprietary business data with general language model outputs, demonstrating strong performance and real-world applicability in client-specific use cases.
+
 ### Project 5
 
 <!-- Hebei Lizhong Group 立中集团 -->
@@ -165,7 +181,7 @@ Developed and optimized a multimodal AI solution based on the latest MiniCPM-V s
 
 Designed and implemented a localized, privacy-focused AI solution as a proof of concept for a client.
 
-- The POC involved deploying and managing large language models (LLMs) such as Gemma and Ollama on the client’s Windows and Mac environments using Docker.
+- The POC involved deploying and managing large language models (LLMs) such as Gemma and Ollama on the client's Windows and Mac environments using Docker.
 - Focused on data privacy and on-premise control, the solution included full environment setup and container orchestration.
 - Integrated advanced AI tools like openWebUI and anythingLLM to develop a customized AI assistant and secure knowledge base.
 - Configured environment variables, managed local model files, and optimized inference performance with precise control over system resources.
