@@ -8,6 +8,12 @@
     - [4. **Feasibility and Challenges**](#4-feasibility-and-challenges)
   - [Predicting and Addressing Criminal Activities](#predicting-and-addressing-criminal-activities)
 - [My AI Skills](#my-ai-skills)
+  - [**LLMs \& GenAI**](#llms--genai)
+  - [**Machine Learning \& Deep Learning**](#machine-learning--deep-learning)
+  - [**Data Processing \& Feature Engineering**](#data-processing--feature-engineering)
+  - [**Model Deployment \& MLOps**](#model-deployment--mlops)
+  - [**Data Science \& Analytics**](#data-science--analytics)
+  - [**Computer Vision**](#computer-vision)
 - [My AI Work Projects](#my-ai-work-projects)
   - [Project 6](#project-6)
   - [Project 5](#project-5)
@@ -118,11 +124,11 @@ Here's a high-level overview of how I will proceed:
 
 ## My AI Skills
 
-LLM, Prompting, Markdown Prompts Framework; Machine Learning Algorithms, linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes; Data Preprocessing, Model Evaluation and Validation, Feature Selection and Engineering, Model Deployment, TensorFlow; Data Science, Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), R, Jupyter Notebooks; Data visualization libraries, Matplotlib, Seaborn, and Plotly; NLP; Computer Vision, PyTorch; IBM Watson, Azure AI platform, AWS AI platform, GCP AI platform; LangChain
+<!-- LLM, Prompting, Markdown Prompts Framework; Machine Learning Algorithms, linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes; Data Preprocessing, Model Evaluation and Validation, Feature Selection and Engineering, Model Deployment, TensorFlow; Data Science, Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), R, Jupyter Notebooks; Data visualization libraries, Matplotlib, Seaborn, and Plotly; NLP; Computer Vision, PyTorch; IBM Watson, Azure AI platform, AWS AI platform, GCP AI platform; LangChain -->
 
 <!-- Machine Learning Algorithms, linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes; Data Preprocessing, Model Evaluation and Validation, Feature Selection and Engineering, Model Deployment, TensorFlow; Data Science, Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), R, Jupyter Notebooks; Data visualization libraries, Matplotlib, Seaborn, and Plotly; NLP; Computer Vision, PyTorch; IBM Watson, Azure AI platform, AWS AI platform, GCP AI platform -->
 
-1. **Machine Learning Algorithms**: linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes, gradient boosting, and neural networks (including deep learning architectures such as CNNs, RNNs, and LSTMs).
+<!-- 1. **Machine Learning Algorithms**: linear regression, logistic regression, decision trees, random forests, support vector machines, k-nearest neighbors, naive Bayes, gradient boosting, and neural networks (including deep learning architectures such as CNNs, RNNs, and LSTMs).
 
 2. **Data Preprocessing**: feature scaling, feature engineering, dimensionality reduction (PCA, LDA), and handling missing data.
 
@@ -140,7 +146,47 @@ LLM, Prompting, Markdown Prompts Framework; Machine Learning Algorithms, linear 
 
 9. **Computer Vision**: image classification, object detection, image segmentation, and building models with frameworks like OpenCV, TensorFlow, or PyTorch.
 
-10. **Reinforcement Learning**: Q-learning, deep Q-networks (DQN), and policy gradients.
+10. **Reinforcement Learning**: Q-learning, deep Q-networks (DQN), and policy gradients. -->
+
+### **LLMs & GenAI**
+
+- Large Language Models (LLMs), Prompt Engineering, Markdown Prompt Frameworks
+- Retrieval-Augmented Generation (**RAG**): embeddings, vector databases (Qdrant, FAISS, Pinecone, Weaviate), hybrid search
+- **LangChain**, **MCP (Model Context Protocol)**, FastMCP tool development
+- Building AI chatbots, virtual agents, and domain-specific reasoning systems
+- NLP tasks: text classification, sentiment analysis, NER, topic modeling, conversational AI
+
+### **Machine Learning & Deep Learning**
+
+- Algorithms: Linear/Logistic Regression, Decision Trees, Random Forests, SVM, KNN, Naive Bayes, Gradient Boosting, Neural Networks
+- Deep Learning: CNNs, RNNs, LSTMs
+- Reinforcement Learning: Q-learning, DQN, Policy Gradients
+- Model evaluation: cross-validation, hyperparameter tuning, accuracy, precision, recall, F1, ROC-AUC, MSE
+
+### **Data Processing & Feature Engineering**
+
+- Feature scaling, encoding, handling missing data
+- Dimensionality reduction: PCA, LDA
+- Feature selection & engineering for ML & DL models
+- Data preprocessing pipelines (Python / Scikit-learn)
+
+### **Model Deployment & MLOps**
+
+- Deploying ML/LLM models via TensorFlow Serving, Flask, Django
+- Cloud AI platforms: **AWS SageMaker**, **Azure AI**, **GCP AI Platform**, IBM Watson
+- Experience with containerized and on-prem LLM deployment (Ollama)
+
+### **Data Science & Analytics**
+
+- Python (NumPy, Pandas, Scikit-learn, TensorFlow, Keras), R
+- Exploratory Data Analysis (EDA), statistical analysis, insights generation
+- Jupyter Notebooks workflow
+- Visualization: Matplotlib, Seaborn, Plotly
+
+### **Computer Vision**
+
+- Image classification, object detection, segmentation
+- Tools: OpenCV, TensorFlow, PyTorch
 
 ## My AI Work Projects
 
@@ -148,7 +194,23 @@ LLM, Prompting, Markdown Prompts Framework; Machine Learning Algorithms, linear 
 
 <!-- Hebei Lizhong Group 立中集团 -->
 
-Designed and delivered a privacy-preserving, AI-powered chatbot solution as a proof of concept (POC) for a client in a private industry domain.
+AI Chatbot & Intelligent Analytics Platform — AI Engineer (POC)
+
+- Built a privacy-preserving RAG chatbot using Python, FastAPI, and LangChain, enabling natural-language access to proprietary business data.
+
+- Deployed and evaluated local LLMs with Ollama; benchmarked multiple models and selected Gemma for optimal on-prem performance.
+
+- Compared FAISS, Pinecone, Qdrant, Weaviate and deployed Qdrant as the vector store for high-performance semantic search.
+
+- Created MCP tools with FastMCP to securely connect to PostgreSQL for sales analytics, forecasting, and inventory health checks.
+
+- Integrated backend LLM reasoning with structured data via LangChain + MCP, enabling natural-language predictive insights.
+
+- Developed React + Vite and Vue UIs delivering a modern conversational interface for business and sales teams.
+
+- Delivered an end-to-end platform blending RAG, LLMs, vector search, and predictive modeling, demonstrating real-world value for sales and customer-service workflows.
+
+<!-- Designed and delivered a privacy-preserving, AI-powered chatbot solution as a proof of concept (POC) for a client in a private industry domain.
 
 - The POC aimed to develop a business-facing chatbot capable of acting as a virtual sales or customer representative by integrating private client data with LLM capabilities.
 - Deployed Ollama in the client's local environment and evaluated multiple LLMs, selecting Gemma for its performance and compatibility for the demo.
@@ -157,7 +219,7 @@ Designed and delivered a privacy-preserving, AI-powered chatbot solution as a pr
 - Integrated Model Context Protocol (MCP) to modularize and manage business-specific context for LLM prompts, enabling traceable, reusable, and versioned knowledge injection.
 - Developed backend APIs using FastAPI, enabling seamless communication between the LLM, vector DB, and frontend.
 - Designed and implemented user interfaces using React and Vue, enhancing user interaction and delivering a modern conversational experience.
-- The chatbot successfully blended proprietary business data with general language model outputs, demonstrating strong performance and real-world applicability in client-specific use cases.
+- The chatbot successfully blended proprietary business data with general language model outputs, demonstrating strong performance and real-world applicability in client-specific use cases. -->
 
 ### Project 5
 
