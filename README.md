@@ -15,6 +15,7 @@
   - [**Data Science \& Analytics**](#data-science--analytics)
   - [**Computer Vision**](#computer-vision)
 - [My AI Work Projects](#my-ai-work-projects)
+  - [Project 7](#project-7)
   - [Project 6](#project-6)
   - [Project 5](#project-5)
   - [Project 4](#project-4)
@@ -189,6 +190,20 @@ Here's a high-level overview of how I will proceed:
 - Tools: OpenCV, TensorFlow, PyTorch
 
 ## My AI Work Projects
+
+### Project 7
+
+<!-- Ef Volleyball practice -->
+
+🏐 AI Team Balancing and Roster Optimization Platform — Full-Stack AI Developer (POC)
+
+- **Engineered a full-stack, AI-driven roster optimization platform** (Go, React/Vite, PostgreSQL) to solve dynamic, multi-criteria team balancing challenges for a 30+ player volleyball league.
+- **Integrated a local LLM (Qwen via Ollama)** into the Go backend to function as a constrained optimization engine, generating three distinct, highly balanced team configurations weekly.
+- **Designed a comprehensive PostgreSQL schema** to capture and unify disparate data points, including 8+ player skill ratings (1-10 scale), historical team assignment consistency, and inter-player conflict data.
+- **Implemented a structured prompt and response mechanism** to feed complex criteria to the LLM and receive actionable JSON outputs, ensuring reliability in team assignment (6 players per team, 4 teams total).
+- **Developed a RESTful Go API (Gin)** for data orchestration, handling CRUD operations and managing the state of the LLM interaction workflow, from availability input to final team commitment.
+- **Created a modern React/Vite frontend** allowing the coach to easily input weekly availability, visualize the LLM's proposed team balancing scores (e.g., Consistency vs. Balance), and commit the final roster.
+- **Delivered a proof-of-concept system** that consistently achieved the dual objectives of maximizing team competitive balance (close matches) and fostering long-term teamwork consistency, resolving a recurring organizational challenge through AI.
 
 ### Project 6
 
