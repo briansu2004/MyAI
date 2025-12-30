@@ -1,5 +1,15 @@
 # AI Chatbot
 
+- [Vector Databases and Retrieval-Augmented Generation (RAG) architectures](#vector-databases-and-retrieval-augmented-generation-rag-architectures)
+  - [🔷 **Vector Databases**](#-vector-databases)
+    - [**Use Cases:**](#use-cases)
+    - [**Popular Tools:**](#popular-tools)
+    - [**Key Concepts:**](#key-concepts)
+  - [🔷 **Retrieval-Augmented Generation (RAG)**](#-retrieval-augmented-generation-rag)
+    - [**How It Works:**](#how-it-works)
+    - [**Benefits:**](#benefits)
+    - [**Used In:**](#used-in)
+
 ## Vector Databases and Retrieval-Augmented Generation (RAG) architectures
 
 <!-- The phrase:
