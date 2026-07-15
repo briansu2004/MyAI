@@ -8,6 +8,7 @@
   - [**Data Science \& Analytics**](#data-science--analytics)
   - [**Computer Vision**](#computer-vision)
 - [My AI Work Projects](#my-ai-work-projects)
+  - [Project 8](#project-8)
   - [Project 7](#project-7)
   - [Project 6](#project-6)
   - [Project 5](#project-5)
@@ -23,6 +24,9 @@
 - [Sponsor My AI Projects](#sponsor-my-ai-projects)
   - [An AI-powered basketball foul judgment system](#an-ai-powered-basketball-foul-judgment-system)
     - [1. **Smart Basketball Court System**](#1-smart-basketball-court-system)
+      - [(1) **Wearable Devices**](#1-wearable-devices)
+      - [(2) **Smart Basketball**](#2-smart-basketball)
+      - [(3) **Court Sensors**](#3-court-sensors)
     - [2. **AI Algorithm Analysis**](#2-ai-algorithm-analysis)
     - [3. **Real-Time Feedback System**](#3-real-time-feedback-system)
     - [4. **Feasibility and Challenges**](#4-feasibility-and-challenges)
@@ -96,25 +100,23 @@
 
 ## My AI Work Projects
 
+### Project 8
+
+<!-- Hebei Lizhong Group 立中集团 AI project 4 Grain -->
+
+Automated Grain Size Measurement (ASTM E112) with SAM 2 + Vision AI
+
+- Developed an automated grain‑size measurement system using Google Colab and Segment Anything Model 2 (SAM 2) to analyze microscope‑captured metallographic images.
+- Implemented a full image‑processing workflow including segmentation, mask refinement, contour extraction, and grain‑boundary isolation to ensure accurate grain delineation.
+- Followed ASTM E112 industry standard to compute grain size metrics and derived ASTM Grain Size Number (G) through statistical analysis of segmented grain areas.
+- Built a reproducible pipeline enabling consistent grain‑size evaluation across varying image qualities and magnifications, improving measurement reliability and reducing manual inspection workload.
+- Demonstrated the ability to combine modern foundation‑model segmentation (SAM 2) with classical metallurgical standards (ASTM E112) to deliver precise, production‑ready grain‑size characterization.
+
 ### Project 7
 
-<!-- Ef Volleyball practice -->
+<!-- Hebei Lizhong Group 立中集团 AI project 3 YOLO -->
 
-🏐 AI Team Balancing and Roster Optimization Platform — Full-Stack AI Developer (POC)
-
-- **Engineered a full-stack, AI-driven roster optimization platform** (Go, React/Vite, PostgreSQL) to solve dynamic, multi-criteria team balancing challenges for a 30+ player volleyball league.
-- **Integrated a local LLM (Qwen via Ollama)** into the Go backend to function as a constrained optimization engine, generating three distinct, highly balanced team configurations weekly.
-- **Designed a comprehensive PostgreSQL schema** to capture and unify disparate data points, including 8+ player skill ratings (1-10 scale), historical team assignment consistency, and inter-player conflict data.
-- **Implemented a structured prompt and response mechanism** to feed complex criteria to the LLM and receive actionable JSON outputs, ensuring reliability in team assignment (6 players per team, 4 teams total).
-- **Developed a RESTful Go API (Gin)** for data orchestration, handling CRUD operations and managing the state of the LLM interaction workflow, from availability input to final team commitment.
-- **Created a modern React/Vite frontend** allowing the coach to easily input weekly availability, visualize the LLM's proposed team balancing scores (e.g., Consistency vs. Balance), and commit the final roster.
-- **Delivered a proof-of-concept system** that consistently achieved the dual objectives of maximizing team competitive balance (close matches) and fostering long-term teamwork consistency, resolving a recurring organizational challenge through AI.
-
-### Project 6
-
-<!-- Hebei Lizhong Group 立中集团 -->
-
-AI Chatbot & Intelligent Analytics Platform — AI Engineer (POC)
+<!-- AI Chatbot & Intelligent Analytics Platform — AI Engineer (POC)
 
 - Built a privacy-preserving RAG chatbot using Python, FastAPI, and LangChain, enabling natural-language access to proprietary business data.
 
@@ -128,7 +130,7 @@ AI Chatbot & Intelligent Analytics Platform — AI Engineer (POC)
 
 - Developed React + Vite and Vue UIs delivering a modern conversational interface for business and sales teams.
 
-- Delivered an end-to-end platform blending RAG, LLMs, vector search, and predictive modeling, demonstrating real-world value for sales and customer-service workflows.
+- Delivered an end-to-end platform blending RAG, LLMs, vector search, and predictive modeling, demonstrating real-world value for sales and customer-service workflows. -->
 
 <!-- Designed and delivered a privacy-preserving, AI-powered chatbot solution as a proof of concept (POC) for a client in a private industry domain.
 
@@ -141,10 +143,21 @@ AI Chatbot & Intelligent Analytics Platform — AI Engineer (POC)
 - Designed and implemented user interfaces using React and Vue, enhancing user interaction and delivering a modern conversational experience.
 - The chatbot successfully blended proprietary business data with general language model outputs, demonstrating strong performance and real-world applicability in client-specific use cases. -->
 
-### Project 5
+Vision AI Defect Detection with Security & Robustness Controls
 
-<!-- Hebei Lizhong Group 立中集团 -->
+- Developed a Vision AI defect detection system classifying car wheel components as “Good” or “Defective” using YOLO-based object detection.
+- Designed the full secure ML pipeline, including:
+- Dataset collection, labeling, and augmentation
+- Model training, validation, and performance tuning
+- Input validation to prevent malformed or adversarial image data
+- Applied robustness techniques to reduce susceptibility to adversarial inputs and data poisoning, improving model reliability in production environments.
+- Demonstrated measurable improvements in early defect identification while emphasizing secure data handling and model integrity, showcasing readiness for manufacturing-scale deployment.
 
+### Project 6
+
+<!-- Hebei Lizhong Group 立中集团 AI project 2 MCP -->
+
+<!--
 Developed and optimized a multimodal AI solution based on the latest MiniCPM-V series models for a client-facing proof of concept.
 
 - The project focused on MiniCPM-Llama3-V 2.5 and MiniCPM-V 2.0, implementing real-world applications in OCR and multilingual dialogue systems using advanced MLLMs (Multimodal Large Language Models).
@@ -155,13 +168,29 @@ Developed and optimized a multimodal AI solution based on the latest MiniCPM-V s
 - Configured advanced training pipelines with customized datasets to address client-specific tasks, improving adaptability and task accuracy.
 - Performed model performance evaluation and optimization, including experiment tracking, output quality assessment, and latency reduction.
 - Researched and integrated the latest techniques in multimodal learning, aligning the solution with current industry trends and research directions.
-- Delivered a fully functional prototype with detailed technical documentation and deployment instructions for client adoption and future scalability.
+- Delivered a fully functional prototype with detailed technical documentation and deployment instructions for client adoption and future scalability. -->
 
-### Project 4
+Secure LLM + MCP Automation for Sales Forecasting & Inventory Optimization
 
-<!-- Hebei Lizhong Group 立中集团 -->
+- Built an AI-driven decision-support system using LLM + Model Context Protocol (MCP) to deliver automated insights on sales forecasting and inventory health.
+- Developed secure MCP tools and APIs using LangChain, Python, FastAPI, and PostgreSQL to:
+- Retrieve and aggregate historical sales data
+- Perform forecast reasoning
+- Compare projected demand against live inventory
+- Generate real-time recommendations
+- Enforced secure tool invocation and context-aware authorization, preventing unauthorized data access by the LLM.
+- Implemented data protection mechanisms including:
+- Schema-level access controls
+- Sensitive field masking and NER-based redaction
+- Input/output validation to reduce LLM hallucination and data leakage risks
+- Added observability and monitoring hooks to track AI tool usage, anomalous queries, and reasoning behavior, enabling AI security posture assessment.
+- Delivered a clean, intuitive UI enabling interactive, LLM-powered analytics while maintaining secure API boundaries and audit-ready logging.
 
-Designed and implemented a localized, privacy-focused AI solution as a proof of concept for a client.
+### Project 5
+
+<!-- Hebei Lizhong Group 立中集团 AI project 1 RAG -->
+
+<!-- Designed and implemented a localized, privacy-focused AI solution as a proof of concept for a client.
 
 - The POC involved deploying and managing large language models (LLMs) such as Gemma and Ollama on the client's Windows and Mac environments using Docker.
 - Focused on data privacy and on-premise control, the solution included full environment setup and container orchestration.
@@ -171,7 +200,31 @@ Designed and implemented a localized, privacy-focused AI solution as a proof of 
 - Constructed a local knowledge repository using anythingLLM for intelligent document management and semantic retrieval.
 - Bridged the gap between cutting-edge AI capabilities and real-world deployment through a hands-on, secure architecture.
 - Provided detailed guidance to the client for operating, maintaining, and expanding the AI system autonomously.
-- Empowered the client to adopt AI innovations internally while maintaining full ownership of their data and infrastructure.
+- Empowered the client to adopt AI innovations internally while maintaining full ownership of their data and infrastructure. -->
+
+Secure Enterprise RAG + LLM Conversational Platform
+
+- Designed and delivered a privacy-preserving, business-facing GenAI chatbot integrating enterprise data with LLM capabilities, acting as a virtual sales/customer representative while enforcing strict data isolation and access control.
+- Architected an end-to-end secure RAG pipeline using Python and FastAPI, including embedding generation, vector indexing, similarity search, and controlled response generation, with safeguards against data leakage and prompt injection.
+- Implemented AI security controls: Input validation and prompt sanitization; Context scoping and role-based access control (RBAC); Output filtering to prevent sensitive data exposure
+- Evaluated vector databases (FAISS, Pinecone, Weaviate) and selected Qdrant Cloud, implementing namespace isolation, tenant-level security, and restricted embedding access.
+- Integrated Qwen Cloud LLM with secure inference APIs, rate limiting, and policy-based guardrails to mitigate jailbreaking and abuse attempts.
+- Built a modern chat UI using Vue.js and React, incorporating secure session handling and context expiration.
+- Successfully demonstrated the ability to blend proprietary enterprise data with LLM outputs while maintaining data privacy, auditability, and industry-grade security posture.
+
+### Project 4
+
+<!-- Ef Volleyball practice -->
+
+🏐 AI Team Balancing and Roster Optimization Platform — Full-Stack AI Developer (POC)
+
+- **Engineered a full-stack, AI-driven roster optimization platform** (Go, React/Vite, PostgreSQL) to solve dynamic, multi-criteria team balancing challenges for a 30+ player volleyball league.
+- **Integrated a local LLM (Qwen via Ollama)** into the Go backend to function as a constrained optimization engine, generating three distinct, highly balanced team configurations weekly.
+- **Designed a comprehensive PostgreSQL schema** to capture and unify disparate data points, including 8+ player skill ratings (1-10 scale), historical team assignment consistency, and inter-player conflict data.
+- **Implemented a structured prompt and response mechanism** to feed complex criteria to the LLM and receive actionable JSON outputs, ensuring reliability in team assignment (6 players per team, 4 teams total).
+- **Developed a RESTful Go API (Gin)** for data orchestration, handling CRUD operations and managing the state of the LLM interaction workflow, from availability input to final team commitment.
+- **Created a modern React/Vite frontend** allowing the coach to easily input weekly availability, visualize the LLM's proposed team balancing scores (e.g., Consistency vs. Balance), and commit the final roster.
+- **Delivered a proof-of-concept system** that consistently achieved the dual objectives of maximizing team competitive balance (close matches) and fostering long-term teamwork consistency, resolving a recurring organizational challenge through AI.
 
 <!-- Machine Learning, Data Science etc. -->
 
